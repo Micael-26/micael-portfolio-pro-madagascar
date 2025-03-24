@@ -59,4 +59,3 @@ Pour installer et exécuter ce projet en local, suivez ces étapes :
 ## Licence
 
 Ce projet est sous licence **MIT**. Vous êtes libre de le modifier et de l'utiliser selon vos besoins.
-
