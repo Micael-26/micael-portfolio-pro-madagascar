@@ -1,6 +1,6 @@
 # Portfolio Professionnel
 
-Ce projet constitue mon portfolio professionnel, une plateforme moderne et dynamique permettant de mettre en avant mon parcours, mes compétences et mes réalisations. Conçu avec des technologies de pointe telles que Laravel, Vue.js et Tailwind CSS, ce site offre une expérience utilisateur fluide et intuitive, avec un design responsive adapté à tous les appareils.
+Ce projet constitue mon portfolio professionnel, une plateforme moderne et dynamique permettant de mettre en avant mon parcours, mes compétences et mes réalisations. Conçu avec des technologies de pointe telles que Laravel, Livewire, Alpine.js et Tailwind CSS, ce site offre une expérience utilisateur fluide et intuitive, avec un design responsive adapté à tous les appareils.
 
 ## Fonctionnalités
 
@@ -14,11 +14,11 @@ Ce portfolio intègre plusieurs fonctionnalités avancées, notamment :
 ## Technologies Utilisées
 
 Le projet repose sur plusieurs technologies et outils :
-- **Backend** : Laravel, Node.js
-- **Frontend** : Vue.js, Livewire, Alpine.js
+- **Backend** : Laravel
+- **Frontend** : Livewire, Alpine.js
 - **Base de données** : MySQL
 - **Framework CSS** : Tailwind CSS, Bootstrap
-- **Services Temps Réel** : Pusher, Laravel Echo
+- **Services Temps Réel** : Pusher, Laravel Reverb, Laravel Echo
 
 ## Installation et Exécution
 
@@ -47,6 +47,7 @@ Pour installer et exécuter ce projet en local, suivez ces étapes :
 4. **Lancer l'application**
    ```sh
    php artisan serve
+   php artisan reverb:start
    npm run dev
    ```
 
