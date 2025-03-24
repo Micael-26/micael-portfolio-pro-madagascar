@@ -26,7 +26,7 @@ Pour installer et exécuter ce projet en local, suivez ces étapes :
 
 1. **Cloner le projet**
    ```sh
-   git clone https://github.com/mon-utilisateur/mon-portfolio.git
+   git clone https://github.com/Micael-26/micael-portfolio-pro-madagascar.git
    cd mon-portfolio
    ```
 
