@@ -54,8 +54,8 @@ Pour installer et exécuter ce projet en local, suivez ces étapes :
 ## Liens Utiles
 
 - **Portfolio en ligne** : [https://mon-site.com](https://mon-site.com)
-- **LinkedIn** : [https://linkedin.com/in/monprofil](https://linkedin.com/in/monprofil)
-- **GitHub** : [https://github.com/mon-utilisateur](https://github.com/mon-utilisateur)
+- **LinkedIn** : [https://mg.linkedin.com/in/micael-diny-674564203](https://mg.linkedin.com/in/micael-diny-674564203)
+- **GitHub** : [https://github.com/Micael-26](https://github.com/Micael-26)
 
 ## Licence
 
