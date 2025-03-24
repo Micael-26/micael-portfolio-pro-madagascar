@@ -1,4 +1,4 @@
-# Portfolio Professionnel
+# Portfolio Pro - Micael DINY
 
 Ce projet constitue mon portfolio professionnel, une plateforme moderne et dynamique permettant de mettre en avant mon parcours, mes compétences et mes réalisations. Conçu avec des technologies de pointe telles que Laravel, Livewire, Alpine.js et Tailwind CSS, ce site offre une expérience utilisateur fluide et intuitive, avec un design responsive adapté à tous les appareils.
 
