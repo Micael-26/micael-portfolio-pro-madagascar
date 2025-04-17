@@ -56,7 +56,3 @@ Pour installer et exécuter ce projet en local, suivez ces étapes :
 - **Portfolio en ligne** : [https://mon-site.com](https://mon-site.com)
 - **LinkedIn** : [https://mg.linkedin.com/in/micael-diny-674564203](https://mg.linkedin.com/in/micael-diny-674564203)
 - **GitHub** : [https://github.com/Micael-26](https://github.com/Micael-26)
-
-## Licence
-
-Ce projet est sous licence **MIT**. Vous êtes libre de le modifier et de l'utiliser selon vos besoins.
